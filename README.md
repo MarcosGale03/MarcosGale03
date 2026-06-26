@@ -16,12 +16,12 @@ Il mio approccio è pratico — preferisco imparare rompendo le cose in ambienti
 🛠️ Tool & Tecnologie
 
 Offensive       │ Kali Linux · Metasploit · Nmap · Hydra · John the Ripper
-Web App         │ Burp Suite · OWASP · SQLmap · Gobuster
-Network         │ Wireshark · tcpdump · Netcat
-OSINT           │ Dark Web Intelligence · Phishing Simulation
-Sistemi         │ Linux · Windows Server 2022 · Active Directory
-Virtualizzazione│ VirtualBox · VMware
-Programmazione  │ Python · PHP · HTML/CSS · C++
+ Web App         │ Burp Suite · OWASP · SQLmap · Gobuster
+ Network         │ Wireshark · tcpdump · Netcat
+ OSINT           │ Dark Web Intelligence · Phishing Simulation
+ Sistemi         │ Linux · Windows Server 2022 · Active Directory
+ Virtualizzazione│ VirtualBox · VMware
+ Programmazione  │ Python · PHP · HTML/CSS · C++
 
 🌍 Lingue
 
