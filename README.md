@@ -2,11 +2,6 @@
 
 Junior Penetration Tester · Cybersecurity Specialist
 
-Mostra immagine
-Mostra immagine
-Mostra immagine
-Mostra immagine
-
 </div>
 
 🔐 Chi sono
